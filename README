@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5094
+
+Partial plugin is a tool developed to help you break down your code into
+partials. Simply select some lines on Visual mode, hit <leader>x, enter the
+desired partial location and the plugin will place the appropiate replacement.
+
+https://github.com/jbgutierrez/vim-partial
